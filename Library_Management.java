@@ -239,7 +239,7 @@ public class Library_Management extends JFrame {
                     }
                 } else {
                   
-                    JOptionPane.showMessageDialog(null, "No actions to undo.");
+                    JOptionPane.showMessageDialog(null, "No Data to Pop");
                 }
             }
         });
